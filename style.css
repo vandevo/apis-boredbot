@@ -1,4 +1,14 @@
 body {
     margin: auto 0;
     padding: 1em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+button {
+    height: 100px;
+    width: 100px;
+  
 }
